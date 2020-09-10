@@ -4,6 +4,7 @@
 
 ### 1. create a project directory 
 > mkdir my_project 
+
 > cd my_project
 
 ### 2. create & activate virtual environment
