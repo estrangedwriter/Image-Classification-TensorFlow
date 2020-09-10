@@ -8,6 +8,7 @@
 
 ### 2. create & activate virtual environment
 > virtualenv my_project_env
+
 > source my_project_env/bin/activate
 
 ### 3. install required packages
